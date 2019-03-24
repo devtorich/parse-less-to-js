@@ -1,7 +1,7 @@
 {
-  "name": "less2js",
+  "name": "parse-less-to-js",
   "version": "0.0.1",
-  "description": "Parser less to js",
+  "description": "less2js,parser less to js",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-dir lib",
