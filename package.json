@@ -1,6 +1,6 @@
 {
   "name": "parse-less-to-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "less2js,parser less to js",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
     "test": "mocha test --compilers js:babel-register"
   },
   "dependencies": {
-    "antd": "^3.6.6",
     "less": "^3.5.3",
     "less-plugin-npm-import": "^2.1.0",
     "optimist": "^0.6.1"
